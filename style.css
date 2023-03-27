@@ -1,0 +1,30 @@
+
+#head{
+    height: 90px;
+    background: rgb(231, 229, 229);
+    text-align: center;
+    padding-top: 10px;
+}
+
+.form-div{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.form{
+    background-color: aliceblue;
+    width: 50%;
+    margin:auto;
+    text-align: center;
+    
+}
+
+.input-field{
+    padding: 5px 0 5px;
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+.error{
+    color: red;
+}
